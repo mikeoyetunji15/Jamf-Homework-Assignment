@@ -1,0 +1,4 @@
+apiVersion: v2
+name: wordpress-custom
+description: WordPress deployment for Jamf homework
+version: 0.1.0

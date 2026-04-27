@@ -1,0 +1,5 @@
+.terraform/
+*.tfstate
+*.tfstate.backup
+minikube-linux-amd64
+
