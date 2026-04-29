@@ -1,4 +1,4 @@
-# Jamf DevOps Homework
+# Jamf Homework
 
 ## Overview
 I put this together to show a deployment (WordPress + DB) using Terraform and Helm. The goal wasn’t just to get it running, but to structure it in a way that makes sense for a real environment.
